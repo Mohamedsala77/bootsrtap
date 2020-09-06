@@ -1,0 +1,30 @@
+.home{
+    height: 94vh;
+    
+}
+.home h1{
+    font-family: "Montserrat";
+    font-size: 56px;
+    font-weight: 700;
+}
+.home p{
+    font-family: "Montserrat";
+    font-size: 18px;
+    font-weight: 200px;
+}
+.Crad:hover{
+    background-color: #FFC107;
+
+}
+.projectimg{
+    width: 250px;
+    height: 210px;
+}
+.formm{
+    font-family: "Montserrat";
+    font-size: 90px;
+}
+.submit button:hover{
+    background-color: #FFC107;
+
+}
